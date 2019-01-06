@@ -10,6 +10,8 @@ export function ListNode(val) {
  *
  * You may assume the two numbers do not contain any leading zero, except the number 0 itself.
  *
+ * Result: Runtime: 112 ms, faster than 99.52% of JavaScript online submissions for Add Two Numbers.
+ *
  * @param {ListNode} l1
  * @param {ListNode} l2
  * @return {ListNode}
