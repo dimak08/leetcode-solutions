@@ -35,6 +35,8 @@ export function isPalindrome(inputString) {
  * Input: "cbbd"
  * Output: "bb"
  *
+ * Result: Runtime: 832 ms, faster than 22.15% of JavaScript online submissions for Longest Palindromic Substring.
+ *
  * @param {string} s
  * @return {string}
  */
